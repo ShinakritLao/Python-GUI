@@ -1,0 +1,80 @@
+-Textbox  *
+  ช่องกรอกสินค้า
+-Label  *
+  หัวข้อช่องกรอก
+-Checkbox
+  ต้องการเลือกหลายหัวข้อ
+-Radio Button
+  เลือกชายหรือหญิง
+-Dropdown
+  สร้างดรอปดาวน์
+-Tab
+  สร้าง TAB หลายชนิด
+-Menu Bar
+  โปรแกรมต้องมีเมนู
+-Icon
+  อยากมีไอคอนเป็นของเราเอง
+-Button to Function  *
+  เมื่อกดปุ่มนี้สั่งทำงานอะไร
+-List 
+  สร้างลิสต์รายชื่อใน GUI
+-Messagebox
+  สร้าง pop up เตือน
+-File Dialog
+  สร้างปุ่ม browse กดเปิดไฟล์
+-Menu Save
+  สร้างเมนูเซฟไฟล์
+-Frame  *
+  สร้างเฟรมไว้แยกหมวดหมู่
+-Font in GUI  *
+  เปลี่ยนฟอนต์ไทย ปรับขนาด
+-Shortcut
+  กด ctrl+R สั่งให้คำนวน
+-Treeview
+  สร้างเมนูย่อยแบบ Treeview
+-GUI to Excel
+  กรอกข้อมูลแล้วข้อมูลเข้า Excel
+-GUI to CSV  *
+  อ่าน/เขียนข้อมูลไปหา CSV
+-Image/Icon in GUI
+  ใส่รูป ใส่ไอคอนทำอย่างไร
+- Python to EXE
+ แปลงโค้ด Python ให้รันกับเครื่องไหนก็ได้
+- Basic SQL ( Sqlite3 )
+พื้นฐานการจัดเก็บข้อมูลลงฐานข้อมูล
+- Matplotlib 
+พื้นฐานการสร้างกราฟสรุปต่างๆ
+- อื่นๆ ที่เกี่ยวข้อง
+
+---------------ลุงสอนผ่านการทำ Workshop: -----------------
+<< โปรแกรมบันทึกค่าใช้จ่าย >>
+
+- เขียนโปรแกรมบันทึกค่าใช้จ่าย
+- บันทึกรายรับรายจ่ายประจำวัน
+- สรุปรายจ่ายประจำวัน เดือน ปี
+- ตารางแสดงข้อมูลรายรับรายจ่าย
+- ค้นหาค่าใช้จ่าย มากที่สุด น้อยที่สุด
+- แผนการใช้จ่ายล่วงหน้า
+- สรุปยอดเงินทั้งหมด
+
+-------------------------------
+Basic Python
+-print  *
+-string, integer, floating  *
+-variables  *
+-input
+-for loop
+-while loop
+-If else elif
+-data type  *
+-%d %s %f   *
+-.format  & f string  *
+-dictionary  *
+-tuple
+-list
+-index in list
+-operator + , - , *, / , // ,%
+-def (function)  *
+-import
+-True / False condition
+-range

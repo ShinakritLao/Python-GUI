@@ -1,0 +1,11 @@
+#Lambda Function
+
+def myPower(x) :
+    #x = ตัวเลข
+    #a = เลขชี้กำลัง
+    return lambda a : 5**a
+
+y = myPower(5)
+result = y(3)
+
+print(result)
